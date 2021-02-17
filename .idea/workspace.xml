@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08538308-bb34-4881-9e23-a8516f5a2bb4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ocQbRwHTrHmK1QxSaKsjWrF5LF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$USER_HOME$/AppData/Roaming/npm/node_modules/gulp" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Frontend\Test\app" />
+      <recent name="D:\Frontend\Test" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08538308-bb34-4881-9e23-a8516f5a2bb4" name="Default Changelist" comment="" />
+      <created>1613583469766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613583469766</updated>
+      <workItem from="1613583472439" duration="6356000" />
+      <workItem from="1613590905696" duration="707000" />
+      <workItem from="1613593304982" duration="284000" />
+      <workItem from="1613593635240" duration="1997000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613584559603">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="137" y="58" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.1366.728@0.40.1366.728" timestamp="1613584559603" />
+    <state x="463" y="158" key="FileChooserDialogImpl" timestamp="1613593584752">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="463" y="158" key="FileChooserDialogImpl/0.40.1366.728@0.40.1366.728" timestamp="1613593584752" />
+    <state width="1345" height="217" key="GridCell.Tab.0.bottom" timestamp="1613588944177">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="217" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1613588944177" />
+    <state width="1345" height="217" key="GridCell.Tab.0.center" timestamp="1613588944177">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="217" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1613588944177" />
+    <state width="1345" height="217" key="GridCell.Tab.0.left" timestamp="1613588944176">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="217" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1613588944176" />
+    <state width="1345" height="217" key="GridCell.Tab.0.right" timestamp="1613588944177">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state width="1345" height="217" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1613588944177" />
+    <state x="184" y="48" key="SettingsEditor" timestamp="1613596670057">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="184" y="48" key="SettingsEditor/0.40.1366.728@0.40.1366.728" timestamp="1613596670057" />
+    <state x="0" y="40" width="585" height="728" key="find.popup" timestamp="1613587981645">
+      <screen x="0" y="40" width="1366" height="728" />
+    </state>
+    <state x="0" y="40" width="585" height="728" key="find.popup/0.40.1366.728@0.40.1366.728" timestamp="1613587981645" />
+  </component>
+</project>

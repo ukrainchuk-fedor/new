@@ -1,0 +1,21 @@
+doctype html
+html
+    block head
+        head
+            //title=documentTitle here will be title
+            meta(charset='UTF-8')
+            meta(http-equiv='X-UA-Compatible', content="IE=edge,chrome=1")
+            meta(name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0')
+            block css
+            link(rel="stylesheet", type="text/css", href="/css/style.min.css")
+            link(href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet")
+            link(href="https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet")
+
+    body
+        .wrapper
+        p.some-text some text
+        p.some-text.some-styled-text some styled text
+        p some small text
+        block scripts
+            script(src='https://code.jquery.com/jquery-3.5.1.min.js')
+            script(src='/js/bundle.js')
